@@ -1,1 +1,2 @@
-# 1212321321
+# Discord-Blacklist
+simple blacklist bot
